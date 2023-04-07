@@ -1,0 +1,48 @@
+.weather {
+  border: 1px solid gray;
+}
+.daily-temp {
+  text-align: center;
+}
+h1 {
+  color: #202124;
+  font-size: 40px;
+  line-height: 40px;
+  position: relative;
+  left: 100px;
+}
+h2 {
+  color: #70757a;
+  font-size: 16px;
+  line-height: 20px;
+  position: relative;
+  left: 100px;
+}
+p {
+  color: #70757a;
+  font-size: 16px;
+  line-height: 20px;
+  position: relative;
+  left: 100px;
+  margin-bottom: 0;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+}
+.bold {
+  font-weight: bold;
+}
+.subtemp {
+  color: #70757a;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.weatherapp {
+  border: 1px solid gray;
+  padding: 20px;
+  margin: 20px;
+  max-width: 100%;
+}
