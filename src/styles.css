@@ -110,6 +110,11 @@ li:first-letter {
   left: 430px;
 }
 
+.alignCenter {
+  position: relative;
+  left: 20px;
+}
+
 .weather-forecast {
   margin-top: 20px;
   text-align: center;
